@@ -1,0 +1,8 @@
+name: custom-win-profile
+title: Karen's Custom Windows Profile Example
+maintainer: Lupo
+copyright: Lupo
+copyright_email: lupo@chef.io
+license: Apache-2.0
+summary: My first attempt at writing a custom profile
+version: 0.1.0

@@ -1,0 +1,1 @@
+default['security_policy']['access']['LockoutBadCount'] = 10
